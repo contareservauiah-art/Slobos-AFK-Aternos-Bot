@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bialm777.aternos.me",
+    "ip": "bialm777.aternos.me:50510",
     "port": 50510,
     "version": "",
     "try-creative": false
